@@ -13,7 +13,9 @@
     "nodemon": "^2.0.21"
   },
   "devDependencies": {
+    "cors": "^2.8.5",
     "dotenv": "^16.0.3",
-    "sucrase": "^3.29.0"
+    "sucrase": "^3.29.0",
+    "yup": "^1.0.2"
   }
 }
